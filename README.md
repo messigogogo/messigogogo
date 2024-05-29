@@ -2,6 +2,10 @@
 
 ![](assets/Bottom_up.svg)
 
+<div style="text-align: center;">
+    <img src="./assets/messi_pass.gif" alt="messi_pass" width="500">
+</div>
+
 ### 📈 GitHub Activity Graph:
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
