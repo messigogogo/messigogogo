@@ -3,7 +3,7 @@
 ![](assets/Bottom_up.svg)
 
 <div style="display: flex; justify-content: center;">
-    <img src="./assets/messi_pass.gif" alt="messi_pass" width="800">
+    <img src="./assets/messi_pass.gif" alt="messi_pass" width="600">
 </div>
 
 ### 📈 GitHub Activity Graph:
