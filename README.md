@@ -1,5 +1,3 @@
-### Welcome 👋🏿
-
 ![](assets/Bottom_up.svg)
 
 <div style="display: flex; justify-content: center;">
